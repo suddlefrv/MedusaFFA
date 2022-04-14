@@ -1,0 +1,8 @@
+name: Alexa
+version: 1.0
+author: suddlefrv
+main: io.github.sufledev.ffa.FFA
+depend:
+  - Jarvis
+commands:
+  stats:
